@@ -40,3 +40,15 @@ input[type="password"] {
 .btn-delete {
     margin-bottom: 20px;
 }
+
+.container {
+    min-height: 200px;
+    box-sizing: border-box;
+    position: relative;
+    padding: 36px 0 70px 0;
+    width: 1220px;
+}
+
+.header-color {
+    color: cadetblue;
+}
